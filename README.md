@@ -1,0 +1,1 @@
+# shuttle-serenity-slash-commands-and-messages-template
